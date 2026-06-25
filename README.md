@@ -46,6 +46,8 @@ Formula: (BookValueatStartofYear×DepreciationRate)
 Produces higher depreciation in early years. Suitable for assets that lose value quickly or become obsolete faster.
 
 Visualisation
+
+
 <img width="711" height="342" alt="image" src="https://github.com/user-attachments/assets/b099ffa2-3a0c-402c-92f7-87cbbb751fd2" />
 <img width="577" height="297" alt="image" src="https://github.com/user-attachments/assets/5d47cf18-0028-4531-8986-8814ba9aca7e" />
 
